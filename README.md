@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+ - [Image Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification/tree/main
 
 <h2> 🤳 Connect with me:</h2>
 
