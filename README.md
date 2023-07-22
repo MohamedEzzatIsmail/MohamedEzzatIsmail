@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
 
- - [Image Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification/tree/main
-
+ - [Image-Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification
+ - [Computer-Security Mini Project] https://github.com/MohamedEzzatIsmail/Computer-Security
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/mohamed-ezzat-96156b247/">[linkedin]</a>
