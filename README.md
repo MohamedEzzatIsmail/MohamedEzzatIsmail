@@ -6,8 +6,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: www.linkedin.com/in/mohamed-ezzat-96156b247
-
+<a href="https://www.linkedin.com/in/mohamed-ezzat-96156b247/">[linkedin]</a>
 
 - 👀 I’m interested in python development and machine learning
 - 🌱 I’m currently learning machine learning
