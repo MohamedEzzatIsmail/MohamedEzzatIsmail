@@ -1,5 +1,16 @@
 <h1>Hi, I'm Mohamed</h1>
 
+<h2>Skills</h2>
+- Fluent in python
+- Fluent in C++
+- Fluent in Java
+- Good With HTML
+- Good With CSS
+- Object Oriented Programming
+- Data Structure
+- Problem Solving
+- Critical Thinking
+
 <h2>👨‍💻 Some Projects:</h2>
 - <b>Python</b>
 
