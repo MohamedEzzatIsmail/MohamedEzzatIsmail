@@ -18,6 +18,7 @@
  - [Computer-Security Mini Project] https://github.com/MohamedEzzatIsmail/Computer-Security
  - [Image-Filtration Mini Project] https://github.com/MohamedEzzatIsmail/Image-filtration
  - [color-detection Mini Project] https://github.com/MohamedEzzatIsmail/color-detection
+ - [Digital-Signal-Processing Mini Project] https://github.com/MohamedEzzatIsmail/digital-signal-processing
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/mohamed-ezzat-96156b247/">[linkedin]</a>
