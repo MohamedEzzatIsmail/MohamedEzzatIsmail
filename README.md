@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mohamed</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Some Projects:</h2>
 - <b>Python</b>
 
  - [Image-Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification
