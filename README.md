@@ -1,7 +1,8 @@
 <h1>Hi, I'm Mohamed</h1>
 
-<h2>Skills</h2>
+<b><h2>Skills</h2></b>
 - Fluent in python
+- [Image-Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification
 - Fluent in C++
 - Fluent in Java
 - Good With HTML
