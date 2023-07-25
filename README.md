@@ -6,6 +6,7 @@
  - [Image-Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification
  - [Computer-Security Mini Project] https://github.com/MohamedEzzatIsmail/Computer-Security
  - [Image-Filtration Mini Project] https://github.com/MohamedEzzatIsmail/Image-filtration
+ - [color-detection Mini Project] https://github.com/MohamedEzzatIsmail/color-detection
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/mohamed-ezzat-96156b247/">[linkedin]</a>
