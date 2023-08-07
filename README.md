@@ -24,6 +24,7 @@
  <b>FreeCodeCamp</b>
 
  - [arithmetic-formatter] https://github.com/MohamedEzzatIsmail/freecodecamp
+ - [time-calculator] https://github.com/MohamedEzzatIsmail/freecodecamp
    
 
 <h2> 🤳 Connect with me:</h2>
