@@ -12,13 +12,20 @@
 - Critical Thinking
 
 <h2>👨‍💻 Some Projects:</h2>
-- <b>Python</b>
+<b>Python</b>
 
  - [Image-Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification
  - [Computer-Security Mini Project] https://github.com/MohamedEzzatIsmail/Computer-Security
  - [Image-Filtration Mini Project] https://github.com/MohamedEzzatIsmail/Image-filtration
  - [color-detection Mini Project] https://github.com/MohamedEzzatIsmail/color-detection
  - [Digital-Signal-Processing Mini Project] https://github.com/MohamedEzzatIsmail/digital-signal-processing
+
+
+ <b>FreeCodeCamp</b>
+
+ - [arithmetic-formatter] https://github.com/MohamedEzzatIsmail/freecodecamp
+   
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/mohamed-ezzat-96156b247/">[linkedin]</a>
