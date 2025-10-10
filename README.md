@@ -1,37 +1,44 @@
-<h1>Hi, I'm Mohamed</h1>
+## 🧑‍💻 Mohamed Ezzat — Mobile Developer
 
-<b><h2>Skills</h2></b>
-- Fluent in python
-- Fluent in C++
-- Fluent in Java
-- Good With HTML
-- Good With CSS
-- Object Oriented Programming
-- Data Structure
-- Problem Solving
-- Critical Thinking
+Hi! I'm **Mohamed Ezzat**, a passionate **Flutter & Mobile Developer** with a strong foundation in **software engineering** and a love for building intuitive, scalable, and performance-driven apps.  
 
-<h2>👨‍💻 Some Projects:</h2>
-<b>Python</b>
+🎓 Bachelor’s in Computer Science — *Modern University for Technology & Information (MTI)*  
+📍 Based in Egypt  
+📧 **[mohamed89591@gmail.com](mailto:mohamed89591@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/mohamed-ezzat-96156b247)**
 
- - [Image-Classification Mini Project] https://github.com/MohamedEzzatIsmail/Image_Classification
- - [Computer-Security Mini Project] https://github.com/MohamedEzzatIsmail/Computer-Security
- - [Image-Filtration Mini Project] https://github.com/MohamedEzzatIsmail/Image-filtration
- - [color-detection Mini Project] https://github.com/MohamedEzzatIsmail/color-detection
- - [Digital-Signal-Processing Mini Project] https://github.com/MohamedEzzatIsmail/digital-signal-processing
+---
 
+### 🚀 About Me
 
- <b>FreeCodeCamp</b>
+- 💡 I enjoy solving problems through clean, maintainable code and intuitive UI/UX.  
+- 📱 Specialized in **Flutter**, **Dart**, and **mobile app architecture (Bloc / Cubit / Provider)**.  
+- 🧠 Experienced in integrating REST APIs, Firebase, local databases (SQLite), and advanced state management.  
+- 🌍 Constantly exploring new frameworks and technologies to push the limits of app performance and user experience.  
 
- - [arithmetic-formatter] https://github.com/MohamedEzzatIsmail/freecodecamp
- - [time-calculator] https://github.com/MohamedEzzatIsmail/freecodecamp
-   
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 🧩 Tech Stack
 
-<a href="https://www.linkedin.com/in/mohamed-ezzat-96156b247/">[linkedin]</a>
+#### 💻 Languages
+- **Dart**, Python, JavaScript, SQL, HTML/CSS
 
-- 👀 I’m interested in python development and machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning field
-- 📫 How to reach me mohamed89591@gmail.com
+#### 🧱 Frameworks & Tools
+- **Flutter**, Firebase, Dio, Sqflite, Shared Preferences  
+- **Bloc / Cubit**, Provider, MVC Pattern  
+- Git, Postman, VS Code, Android Studio, GitHub Actions
+
+---
+
+### 🏆 Goals for 2025
+- 🚀 Launch my own mobile app on Google Play  
+- 🧩 Build an open-source Flutter component library  
+- 📚 Continue contributing to the Flutter and AI communities  
+
+---
+
+### 💬 Let’s Connect!
+
+I’m always open to new ideas, collaborations, and challenges in mobile app development.  
+📧 **[mohamed89591@gmail.com](mailto:mohamed89591@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/mohamed-ezzat-96156b247)**  
